@@ -25,10 +25,23 @@ www.25-hd.com
 www.series-days.com
 series-days.com
 *series-days.com/*
+www.crazygames.com
+crazygames.com
 *crazygames.com/*
 *series99.com/*
+www.series99.com
+series99.com
 *upde.cc/*
+www.upde.cc
+upde.cc
 *goal7.co/*
+www.goal7.co
+goal7.co
 *baantdedball.org/*
+www.baantdedball.org
+baantdedball.org
 *ballzaa.com/*
+www.ballzaa.com
+ballzaa.com
+
 
